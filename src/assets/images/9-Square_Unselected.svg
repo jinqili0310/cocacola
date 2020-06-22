@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g fill="#4A4A4A" fill-rule="evenodd" transform="translate(3 3)">
+    <polygon points="0 4.737 4.737 4.737 4.737 0 0 0"/>
+    <polygon points="6.632 4.737 11.368 4.737 11.368 0 6.632 0"/>
+    <polygon points="13.263 4.737 18 4.737 18 0 13.263 0"/>
+    <polygon points="0 11.368 4.737 11.368 4.737 6.632 0 6.632"/>
+    <polygon points="6.632 11.368 11.368 11.368 11.368 6.632 6.632 6.632"/>
+    <polygon points="13.263 11.368 18 11.368 18 6.632 13.263 6.632"/>
+    <polygon points="0 18 4.737 18 4.737 13.263 0 13.263"/>
+    <polygon points="6.632 18 11.368 18 11.368 13.263 6.632 13.263"/>
+    <polygon points="13.263 18 18 18 18 13.263 13.263 13.263"/>
+  </g>
+</svg>

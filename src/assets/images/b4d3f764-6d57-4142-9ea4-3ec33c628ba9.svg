@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="rJt9A7aJGX" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 93.1 93.2" style="enable-background:new 0 0 93.1 93.2;" xml:space="preserve">
+<style type="text/css">
+	<style type="text/css">
+		.st0 {
+			fill: #FFFFFF;
+		}
+
+
+		@keyframes B1TcR7aJfX_HJT-Na1GQ_Animation {
+			0% {
+				transform: rotate(0deg);
+			}
+			100% {
+				transform: rotate(180deg);
+			}
+		}
+
+
+		#rJt9A7aJGX * {
+			animation-duration: 1s;
+			animation-iteration-count: infinite;
+			animation-timing-function: cubic-bezier(0, 0, 1, 1);
+		}
+
+		#Byi5RQpkGQ_rknk4TJfQ {
+			animation-name: Byi5RQpkGQ_rknk4TJfQ_Animation;
+			transform-origin: 50% 50%;
+			transform-box: fill-box;
+
+		}
+
+		#B1TcR7aJfX_HJT-Na1GQ {
+			animation-name: B1TcR7aJfX_HJT-Na1GQ_Animation;
+			transform-origin: 50% 50%;
+			transform-box: fill-box;
+			transform: rotate(0deg);
+			animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);
+		}
+	</style>
+</style>
+<g id="By550mp1f7">
+</g>
+<g id="Byi5RQpkGQ_rknk4TJfQ">
+	<g id="Byi5RQpkGQ">
+		<g id="B1TcR7aJfX_HJT-Na1GQ">
+			<g id="B1TcR7aJfX">
+				<path id="B109CmpJf7" class="st0" d="M46.5,93.2c-7.6,0-15.1-1.9-21.7-5.4l3.3-6.2c5.7,3,12,4.6,18.5,4.6
+					c21.8,0,39.6-17.8,39.6-39.6c0-6-1.3-11.7-3.9-17.1l6.3-3c3,6.3,4.5,13,4.5,20.1C93.1,72.3,72.2,93.2,46.5,93.2z"/>
+				<path id="BJ1lq0QayGm" class="st0" d="M4.4,66.4C1.5,60.2,0,53.5,0,46.6C0,20.9,20.9,0,46.6,0C54,0,61.4,1.8,67.9,5.2l-3.2,6.2
+					C59.1,8.5,53,7,46.6,7C24.8,7,7,24.8,7,46.6c0,5.9,1.3,11.5,3.7,16.8L4.4,66.4z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
