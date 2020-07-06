@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import { Row, Col, InputGroup, FormControl, Dropdown, Button } from 'react-bootstrap';
-import appleDownload from '../assets/images/apple-download-app-store.svg';
-import googleDownload from '../assets/images/Get_it_on_Google_play.svg';
+import { Row, Col} from 'react-bootstrap';
 
 class Footer extends Component {
 	render() {
@@ -9,37 +7,32 @@ class Footer extends Component {
 			<Row lg={4} className="row-footer">
 				<Col className="col-footer">
 					<p className="footer-title">EXPLORE</p>
-					<a className="shop-link" href="/">
+					<p className="shop-link">
 						PRODUCT LOCATOR
-					</a>
-					<br />
-					<a className="shop-link" href="/">
+					</p>
+					<p className="shop-link">
 						REWARDS
-					</a>
-					<br />
-					<a className="shop-link" href="/">
+					</p>
+					<p className="shop-link">
 						GIVE
-					</a>
-					<br />
-					<a className="shop-link" href="/">
+					</p>
+					<p className="shop-link">
 						SIP & SCAN®
-					</a>
+					</p>
 				</Col>
 				<Col className="col-footer">
 					<p className="footer-title">RESOURCES</p>
-					<a className="shop-link" href="/">
+					<p className="shop-link">
 						COMPANY INFORMATION
-					</a>
-					<br />
-					<a className="shop-link" href="/">
+					</p>
+					<p className="shop-link">
 						WORLD OF COCA-COLA
-					</a>
-					<br />
-					<a className="shop-link" href="/">
+					</p>
+					<p className="shop-link">
 						CAREERS
-					</a>
+					</p>
 				</Col>
-				<Col className="col-footer">
+				{/* <Col className="col-footer">
 					<p className="footer-title">DOWNLOAD THE COCA-COLA APP</p>
 					<Row>
 						<Col md={5}>
@@ -53,8 +46,8 @@ class Footer extends Component {
 							</a>
 						</Col>
 					</Row>
-				</Col>
-				<Col className="col-footer footer-right">
+				</Col> */}
+				{/* <Col className="col-footer footer-right">
 					<p className="footer-title">SIGN UP TO HEAR FROM US</p>
 					<p>We'll send you emails on the latest happenings, promotions, and more.</p>
 					<p className="footer-text">EMAIL</p>
@@ -199,7 +192,7 @@ class Footer extends Component {
 						</Row>
 					</InputGroup>
 					<Button className="footer-button">JOIN THE LIST</Button>
-				</Col>
+				</Col> */}
 			</Row>
 		);
 	}

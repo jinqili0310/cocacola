@@ -1,60 +1,29 @@
 import React, { Component } from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Container, Row, Col } from 'react-bootstrap';
-import Navigation from './components/navigation';
-import ImageTitle from './components/imageTitle';
-import BackButton from './components/backButton';
-import Product from './components/product';
-import ProductDecaf from './components/productDecaf';
-import storeImg from './assets/images/Mobile-CokeStore-Img.jpeg';
-import StoreShop from './components/storeShop';
-import Footer from './components/footer';
-import SnsLinks from './components/snsLinks';
+import { Switch, Route, BrowserRouter, Redirect } from 'react-router-dom';
+import ZeroSugar from './components/zeroSugar';
+import Home from './components/home';
+import Energy from './components/energy';
+import Flavor from './components/flavor';
+import LocalTaste from './components/localTaste';
 
 class App extends Component {
 	state = {};
 	render() {
 		return (
-			<Container>
-				<Row lg={1}>
-					<Navigation />
-				</Row>
-				<Row lg={1}>
-					<ImageTitle />
-				</Row>
-				<Row lg={2}>
-					<Col className="col-back-button">
-						<BackButton />
-					</Col>
-					<Col />
-				</Row>
-				<Row lg={1}>
-					<Col className="col-slogan">
-						<p className="slogan-text">
-							Enjoy the refreshing, original taste of Coca-Cola® - shop online or find near you today.
-						</p>
-					</Col>
-				</Row>
-				<Row lg={2} className="row-product">
-					<Col>
-						<Product />
-					</Col>
-					<Col>
-						<ProductDecaf />
-					</Col>
-				</Row>
-				<Row lg={2} className="row-store">
-					<Col className="col-store">
-						<img alt="store scene" src={storeImg} className="img-store" />
-					</Col>
-					<Col className="col-store">
-						<StoreShop />
-					</Col>
-				</Row>
-				<Footer />
-				<SnsLinks />
-			</Container>
+			<div className="navRoute">
+				<BrowserRouter>
+					<Switch>
+						<Route path="/products/coca-cola/" exact component={Home} />
+						<Route path="/products/coca-cola-zero-sugar/" component={ZeroSugar} />
+						<Route path="/products/coca-cola-energy/" component={Energy} />
+						<Route path="/products/coca-cola-flavors/" component={Flavor} />
+						<Route path="/products/coca-cola-local-flavors/" component={LocalTaste} />
+						<Redirect to="/products/coca-cola/"></Redirect>
+					</Switch>
+				</BrowserRouter>
+			</div>
 		);
 	}
 }

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Card, Button } from 'react-bootstrap';
+import { Card } from 'react-bootstrap';
 import ccStore from '../assets/images/coke-store-logo-PLPs.png';
 
 class StoreShop extends Component {
@@ -12,8 +12,8 @@ class StoreShop extends Component {
 						Shop customized bottles, collectibles, gear and more from your favorite Coca-Cola brands on
 						Cokestore.com.
 					</Card.Text>
-					<Button className="store-button button-style">
-                        <a href="https://www.cokestore.com/" className="shop-link">SHOP</a></Button>
+					{/* <Button className="store-button button-style">
+                        <a href="https://www.cokestore.com/" className="shop-link">SHOP</a></Button> */}
 				</Card.Body>
 			</Card>
 		);

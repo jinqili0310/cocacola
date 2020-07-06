@@ -106,7 +106,7 @@ code {
 	border: none !important;
 	text-align: center !important;
 	margin-top: 90px !important;
-	min-width: 100vw !important;
+	width: 100vw !important;
 }
 
 .banner-overlay {
@@ -146,9 +146,7 @@ code {
 
 .banner-image {
 	position: absolute;
-	max-height: 100%;
 	width: 100vw !important;
-	width: auto;
 	height: auto;
 	top: 0;
 	bottom: 0;
@@ -193,7 +191,7 @@ code {
 	border-radius: 25px !important;
 	background-color: #000 !important;
 	border: none !important;
-	padding: 10px 40px !important;
+	padding: 3px 30px !important;
 	margin-top: 10px !important;
 	font-weight: 700 !important;
 	font-size: 10px !important;
@@ -209,6 +207,7 @@ code {
 	text-decoration: none;
 	color: #fff;
 	outline: none;
+	margin: 0;
 }
 
 .store-card {
@@ -351,6 +350,165 @@ code {
 	color: #fff;
 	font-weight: bold;
 	text-decoration: none;
+}
+
+.card-zero {
+	width: 105px !important;
+	margin: 0 auto !important;
+}
+
+.banner-energy {
+	text-align: left !important;
+	float: left !important;
+	font-size: 30px !important;
+	font-weight: bold !important;
+	width: 40% !important;
+}
+
+.banner-overlay-energy {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	top: 10% !important;
+	left: 10% !important;
+}
+
+.title-flavor {
+	position: relative !important;
+	height: 100%;
+}
+
+.bottom-flavor {
+	position: relative !important;
+	margin-bottom: 0 !important;
+}
+
+.top-flavor {
+	position: absolute !important;
+	width: 416px !important;
+	top: 25% !important;
+	left: 8% !important;
+}
+
+.banner-flavor {
+	color: #f40000 !important;
+	text-align: left !important;
+	float: left !important;
+	font-size: 14px !important;
+	width: 30% !important;
+}
+
+.banner-overlay-flavor {
+	display: flex;
+	align-items: flex-end;
+	flex-wrap: wrap;
+	top: -25% !important;
+	left: 7% !important;
+	height: 100%;
+}
+
+.col-flavor-back {
+	margin-top: 1.5% !important;
+}
+
+.row-body {
+	width: 80% !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+.banner-local {
+	height: auto !important;
+	position: relative !important;
+}
+
+.title-local {
+	font-weight: 600 !important;
+	font-size: 35px !important;
+	width: 800px !important;
+}
+
+.overlay-local {
+	align-items: baseline !important;
+	margin-top: 3% !important;
+}
+
+.row-local {
+	margin-top: 2%;
+	margin-bottom: 1%;
+}
+
+.local-card {
+	border: none !important;
+	width: 565px !important;
+	height: 594px !important;
+	margin: 0 auto !important;
+}
+
+.local-bg {
+	width: 565px !important;
+	height: 594px !important;
+}
+
+.local-parent {
+	display: flex;
+	justify-content: flex-start;
+	padding: 10px !important;
+	flex-wrap: wrap;
+	margin: 0 auto;
+}
+
+.local-image {
+	width: 377px !important;
+	height: 479px !important;
+	position: relative;
+}
+
+.local-bottle {
+	width: 150px !important;
+	height: 520px !important;
+}
+
+.local-title {
+	position: absolute;
+	color: rgb(228, 30, 40) !important;
+	margin: 0 auto !important;
+	font-weight: bold !important;
+	font-size: 28px !important;
+	top: 320px;
+	left: 70px;
+}
+
+.local-berry {
+	width: 300px;
+	left: 110px !important;
+}
+
+.row-video-store {
+	margin-top: 0 !important;
+	padding: 0;
+	background-color: rgb(238, 238, 238);
+	width: 100vw !important;
+}
+
+.col-video {
+	background-color: #000;
+	text-align: center !important;
+	padding: 20px 0 !important;
+}
+
+.video-text {
+	color: #fff !important;
+}
+
+.video-style {
+	margin: 20px auto !important;
+}
+
+.video-down {
+	font-family: "UnityCondensed";
+	color: #fff !important;
+	word-break: break-all;
 }
 
 @media (min-width: 1100px) {

@@ -1,10 +1,6 @@
 import React, { Component } from 'react';
 import { Row } from 'react-bootstrap';
 import logoCC from '../assets/images/coke-cola.png';
-import logoFB from '../assets/images/coke-facebook.png';
-import logoTW from '../assets/images/coke-twitter.png';
-import logoIG from '../assets/images/coke-instagran.png';
-import logoYT from '../assets/images/coke-youtube.png';
 
 class SnsLinks extends Component {
 	render() {
@@ -12,7 +8,7 @@ class SnsLinks extends Component {
 			<Row lg={1} className="row-sns">
 				<img alt="logo" src={logoCC} className="logo-img" />
 				<p className="sns-title">CONNECT WITH US</p>
-				<div className="sns-group">
+				{/* <div className="sns-group">
 					<a href="/">
 						<img alt="facebook" src={logoFB} style={{ marginRight: '10px' }} />
 					</a>
@@ -25,7 +21,7 @@ class SnsLinks extends Component {
 					<a href="/">
 						<img alt="youtube" src={logoYT} />
 					</a>
-				</div>
+				</div> */}
 				<p>
 					© 2020{' '}
 					<a href="/" className="shop-link">
