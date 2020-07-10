@@ -572,7 +572,7 @@ code {
 
 .history-text p {
 	color: #575757;
-	line-height: 2 !important;
+	line-height: 1.55 !important;
 	padding: 0 0 15px;
 	vertical-align: baseline;
 	text-align: justify;
