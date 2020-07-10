@@ -22,7 +22,6 @@ class WhatsNew extends Component {
 							<Card.Img variant="top" src={imgCherryVanilla} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Cherry Vanilla</Card.Text>
-								<br />
 								<Button
 									variant="dark"
 									className="button-style"
@@ -87,7 +86,6 @@ class WhatsNew extends Component {
 							<Card.Img variant="top" src={imgEnergyCherry} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Energy Cherry</Card.Text>
-								<br />
 								<Button
 									variant="dark"
 									className="button-style"

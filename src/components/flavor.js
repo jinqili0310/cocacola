@@ -48,7 +48,7 @@ class Flavor extends Component {
 					<Col />
 				</Row>
 				<Row lg={4} className="row-body">
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgCherry} className="card-zero" />
 							<Card.Body className="product-card-body">
@@ -63,7 +63,7 @@ class Flavor extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgCherryVanilla} className="card-zero" />
 							<Card.Body className="product-card-body">
@@ -78,7 +78,7 @@ class Flavor extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgOrangeVanilla} className="card-zero" />
 							<Card.Body className="product-card-body">
@@ -93,7 +93,7 @@ class Flavor extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgVanilla} className="card-zero" />
 							<Card.Body className="product-card-body">
@@ -108,7 +108,7 @@ class Flavor extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgCherryZero} className="card-zero" />
 							<Card.Body className="product-card-body">
@@ -123,7 +123,7 @@ class Flavor extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgCherryVanillaZero} className="card-zero" />
 							<Card.Body className="product-card-body">
@@ -138,7 +138,7 @@ class Flavor extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgOrangeVanillaZero} className="card-zero" />
 							<Card.Body className="product-card-body">
@@ -153,7 +153,7 @@ class Flavor extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgVanillaZero} className="card-zero" />
 							<Card.Body className="product-card-body">

@@ -47,7 +47,7 @@ class Home extends Component {
 					</Col>
 				</Row>
 				<Row lg={2} className="row-product row-body">
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={productCC} className="card-zero" />
 							<Card.Body className="product-card-body">
@@ -58,7 +58,7 @@ class Home extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-decaf">
 							<Card.Img variant="top" src={productDecaf} className="card-zero" />
 							<Card.Body className="product-card-body">

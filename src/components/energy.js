@@ -42,7 +42,7 @@ class Energy extends Component {
 					</Col>
 				</Row>
 				<Row lg={4} className="row-product row-body">
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgEnergy} className="card-zero" />
 							<Card.Body className="product-card-body">
@@ -58,7 +58,7 @@ class Energy extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgEnergyZero} className="card-zero" />
 							<Card.Body className="product-card-body">
@@ -73,12 +73,11 @@ class Energy extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgEnergyCherry} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Energy Cherry</Card.Text>
-								<br />
 								<Button
 									variant="dark"
 									className="button-style"
@@ -89,7 +88,7 @@ class Energy extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgEnergyCherryZero} className="card-zero" />
 							<Card.Body className="product-card-body">

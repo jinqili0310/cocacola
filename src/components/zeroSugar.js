@@ -41,7 +41,7 @@ class ZeroSugar extends Component {
 					</Col>
 				</Row>
 				<Row lg={4} className="row-product row-body">
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgZero} className="card-zero" />
 							<Card.Body className="product-card-body">
@@ -57,7 +57,7 @@ class ZeroSugar extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgDecaf} className="card-zero" />
 							<Card.Body className="product-card-body">
@@ -72,7 +72,7 @@ class ZeroSugar extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgCherry} className="card-zero" />
 							<Card.Body className="product-card-body">
@@ -87,7 +87,7 @@ class ZeroSugar extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgVanilla} className="card-zero" />
 							<Card.Body className="product-card-body">
@@ -102,7 +102,7 @@ class ZeroSugar extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgOrange} className="card-zero" />
 							<Card.Body className="product-card-body">
@@ -117,7 +117,7 @@ class ZeroSugar extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgEnergy} className="card-zero" />
 							<br />
@@ -133,7 +133,7 @@ class ZeroSugar extends Component {
 							</Card.Body>
 						</Card>
 					</Col>
-					<Col>
+					<Col className="col-card">
 						<Card className="product-card product-cc">
 							<Card.Img variant="top" src={imgEnergyCherry} className="card-zero" />
 							<br />

@@ -14,7 +14,7 @@
 
 body {
 	margin: 0;
-	font-size: 14px !important;
+	font-size: 16px !important;
 	color: #333 !important;
 	font-family: "Unity", "Gotham A", "Gotham B" !important;
 	line-height: 1.42857143;
@@ -57,11 +57,11 @@ code {
 }
 
 .dropdown-item {
-	padding: 0.25rem 0.75rem !important;
+	padding: 3px 8px !important;
 }
 
 .nav-icon {
-	font-size: 1.2rem;
+	font-size: 2%;
 	color: #000;
 }
 .nav-icon:hover {
@@ -74,7 +74,7 @@ code {
 
 .list-unstyled {
 	margin: 0 !important;
-	padding: 0.25rem 0.75rem !important;
+	padding: 1% 2% !important;
 }
 
 .dropdown-right-1 {
@@ -170,8 +170,12 @@ code {
 }
 
 .product-card {
-	width: 16rem !important;
+	display: flex !important;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
 	border: none !important;
+	width: 80%;
 }
 
 .product-cc {
@@ -533,12 +537,16 @@ code {
 	padding: 0 !important;
 }
 
+.history-container p {
+	font-size: 16px !important;
+}
+
 .history-nav {
 	padding: 0 15px !important;
 }
 
 .history-text h2 {
-	font-size: 2.75em;
+	font-size: 40px;
 	font-weight: bolder;
 	color: rgb(74, 74, 74);
 	padding: 0;
@@ -546,8 +554,8 @@ code {
 }
 
 .history-text h3 {
-	margin: 0 0 0.25em;
-	font-size: 2.25em;
+	margin: 0 0 1%;
+	font-size: 30px;
 	font-weight: bolder;
 	padding: 0 0 5%;
 	color: rgb(74, 74, 74);
@@ -555,8 +563,8 @@ code {
 
 .history-text h5 {
 	font-weight: bold;
-	padding: .3em 0;
-	font-size: 0.5em;
+	padding: 1% 0;
+	font-size: 16px;
 	color: #636466;
 	line-height: normal;
 	vertical-align: baseline;
@@ -564,8 +572,7 @@ code {
 
 .history-text p {
 	color: #575757;
-	line-height: 3.5em !important;
-	font-size: 0.5em !important;
+	line-height: 2 !important;
 	padding: 0 0 15px;
 	vertical-align: baseline;
 	text-align: justify;
@@ -597,7 +604,7 @@ code {
 
 .col-explore h2 {
 	font-weight: bolder;
-	margin: 0 0 1em 0;
+	margin: 0 0 2% 0;
 	font-size: 40px;
 }
 
@@ -645,7 +652,7 @@ code {
 
 .explore-button .dropdown-toggle::after {
 	float: right !important;
-	margin-top: .5em;
+	margin-top: 3%;
 }
 
 .explore-link,
