@@ -47,7 +47,11 @@ class ZeroSugar extends Component {
 							<Card.Body className="product-card-body">
 								<Card.Text>Coke Zero Sugar</Card.Text>
 								<br />
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-zero-sugar/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -58,7 +62,11 @@ class ZeroSugar extends Component {
 							<Card.Img variant="top" src={imgDecaf} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Caffeine Free Coke Zero Sugar</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-zero-sugar/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -69,7 +77,11 @@ class ZeroSugar extends Component {
 							<Card.Img variant="top" src={imgCherry} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Cherry Vanilla Zero Sugar</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-zero-sugar/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -80,7 +92,11 @@ class ZeroSugar extends Component {
 							<Card.Img variant="top" src={imgVanilla} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Vanilla Zero Sugar</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-zero-sugar/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -91,7 +107,11 @@ class ZeroSugar extends Component {
 							<Card.Img variant="top" src={imgOrange} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Orange Vanilla Zero Sugar</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-zero-sugar/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -103,7 +123,11 @@ class ZeroSugar extends Component {
 							<br />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Energy Zero Sugar</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-zero-sugar/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -115,7 +139,11 @@ class ZeroSugar extends Component {
 							<br />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Energy Cherry Zero Sugar</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-zero-sugar/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>

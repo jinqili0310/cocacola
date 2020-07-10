@@ -48,7 +48,11 @@ class Energy extends Component {
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Energy</Card.Text>
 								<br />
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-energy/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -59,7 +63,11 @@ class Energy extends Component {
 							<Card.Img variant="top" src={imgEnergyZero} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Energy Zero Sugar</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-energy/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -71,7 +79,11 @@ class Energy extends Component {
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Energy Cherry</Card.Text>
 								<br />
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-energy/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -82,7 +94,11 @@ class Energy extends Component {
 							<Card.Img variant="top" src={imgEnergyCherryZero} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Energy Cherry Zero Sugar</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-energy/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>

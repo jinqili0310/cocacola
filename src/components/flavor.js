@@ -28,8 +28,12 @@ class Flavor extends Component {
 				</Row>
 				<Row lg={1}>
 					<Card className="text-white image-title title-flavor">
-						<Card.Img className="banner-image bottom-flavor" src={imageFlavor} alt="Explore Coca-Cola Products" />
-                        <Card.Img className="top-flavor" src={imageOver} alt="text" />
+						<Card.Img
+							className="banner-image bottom-flavor"
+							src={imageFlavor}
+							alt="Explore Coca-Cola Products"
+						/>
+						<Card.Img className="top-flavor" src={imageOver} alt="text" />
 						<Card.ImgOverlay className="banner-overlay-flavor">
 							<Card.Title className="banner-flavor">
 								Find these refreshing flavors online or at a retailer near you.
@@ -49,7 +53,11 @@ class Flavor extends Component {
 							<Card.Img variant="top" src={imgCherry} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Cherry</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-flavors/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -60,7 +68,11 @@ class Flavor extends Component {
 							<Card.Img variant="top" src={imgCherryVanilla} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Cherry Vanilla</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-flavors/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -71,7 +83,11 @@ class Flavor extends Component {
 							<Card.Img variant="top" src={imgOrangeVanilla} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Orange Vanilla</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-flavors/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -82,7 +98,11 @@ class Flavor extends Component {
 							<Card.Img variant="top" src={imgVanilla} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Vanilla</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-flavors/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -93,7 +113,11 @@ class Flavor extends Component {
 							<Card.Img variant="top" src={imgCherryZero} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Cherry Zero Sugar</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-flavors/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -104,7 +128,11 @@ class Flavor extends Component {
 							<Card.Img variant="top" src={imgCherryVanillaZero} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Cherry Vanilla Zero Sugar</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-flavors/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -115,7 +143,11 @@ class Flavor extends Component {
 							<Card.Img variant="top" src={imgOrangeVanillaZero} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Orange Vanilla Zero Sugar</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-flavors/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -126,7 +158,11 @@ class Flavor extends Component {
 							<Card.Img variant="top" src={imgVanillaZero} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola Vanilla Zero Sugar</Card.Text>
-								<Button variant="dark" className="button-style">
+								<Button
+									variant="dark"
+									className="button-style"
+									href="/products/coca-cola-flavors/explore/"
+								>
 									EXPLORE
 								</Button>
 							</Card.Body>

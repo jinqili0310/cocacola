@@ -49,7 +49,7 @@ class LocalTaste extends Component {
 						</p>
 					</Col>
 				</Row>
-				<Row lg={2} className="row-local row-body">
+				<Row lg={2} className="row-local">
 					<Col className="local-product">
 						<Card className="local-card">
 							<Card.Img src={bgPeach} alt="background" className="local-bg" />
