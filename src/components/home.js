@@ -1,3 +1,10 @@
+/*
+ * @Author: Jinqi Li
+ * @Date: 2020-08-26 16:08:32
+ * @LastEditors: Jinqi Li
+ * @LastEditTime: 2020-09-20 03:09:11
+ * @FilePath: /cocacola-clone/src/components/home.js
+ */
 import React, { Component } from 'react';
 import '../App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
