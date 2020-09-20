@@ -21,7 +21,7 @@
 		"redux": "^4.0.5"
 	},
 	"scripts": {
-		"start": "webpack --config ./config/webpack.common.config.js",
+		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject"
