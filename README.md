@@ -1,12 +1,9 @@
+<!--
+ * @Author: Jinqi Li
+ * @Date: 2020-06-21 22:29:22
+ * @LastEditors: Jinqi Li
+ * @LastEditTime: 2020-09-20 07:41:00
+ * @FilePath: /cocacola-clone/README.md
+-->
 # CocaCola Clone
-* ## [Temporary Host](https://warm-refuge-29675.herokuapp.com/)
-* ## Usage
-  * **`npm install`** <br>
-    install npm package (if you haven't installed it before)
-  * **`cd <project folder>`** <br>
-    direct to the project folder
-  * **`npm start`** <br>
-    start npm package
-  * **`npm run build`** <br>
-    build the app for production if you want
-* ## [Heroku Branch for Building](https://dashboard.heroku.com/apps/warm-refuge-29675)
+* ## [Github Page](https://kikijinqili.github.io/products/coca-cola/)

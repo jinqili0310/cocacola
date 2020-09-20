@@ -2,7 +2,7 @@
  * @Author: Jinqi Li
  * @Date: 2020-08-26 16:08:32
  * @LastEditors: Jinqi Li
- * @LastEditTime: 2020-09-20 03:09:11
+ * @LastEditTime: 2020-09-20 04:45:55
  * @FilePath: /cocacola-clone/src/components/home.js
  */
 import React, { Component } from 'react';
@@ -24,6 +24,7 @@ class Home extends Component {
 	render() {
 		return (
 			<Container>
+				{/* <Chatbot /> */}
 				<Row lg={1}>
 					<Navigation />
 				</Row>

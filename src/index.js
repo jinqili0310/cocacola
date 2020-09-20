@@ -1,3 +1,10 @@
+/*
+ * @Author: Jinqi Li
+ * @Date: 2020-06-21 22:29:22
+ * @LastEditors: Jinqi Li
+ * @LastEditTime: 2020-09-20 05:44:18
+ * @FilePath: /cocacola-clone/src/index.js
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';

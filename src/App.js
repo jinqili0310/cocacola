@@ -1,3 +1,10 @@
+/*
+ * @Author: Jinqi Li
+ * @Date: 2020-08-26 16:08:32
+ * @LastEditors: Jinqi Li
+ * @LastEditTime: 2020-09-20 07:30:12
+ * @FilePath: /cocacola-clone/src/App.js
+ */
 import React, { Component } from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -14,7 +21,6 @@ import ExploreEnergy from './components/exploreEnergy';
 import ExploreFlavor from './components/exploreFlavor';
 
 class App extends Component {
-	state = {};
 	render() {
 		return (
 			<div className="navRoute">
