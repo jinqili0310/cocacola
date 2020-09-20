@@ -25,7 +25,7 @@ class WhatsNew extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/products/coca-cola-flavors/explore/"
+									href="/cocacola/products/coca-cola-flavors/explore/"
 								>
 									EXPLORE
 								</Button>
@@ -40,7 +40,7 @@ class WhatsNew extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/products/coca-cola-flavors/explore/"
+									href="/cocacola/products/coca-cola-flavors/explore/"
 								>
 									EXPLORE
 								</Button>
@@ -57,7 +57,7 @@ class WhatsNew extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/products/coca-cola-energy/explore/"
+									href="/cocacola/products/coca-cola-energy/explore/"
 								>
 									EXPLORE
 								</Button>
@@ -73,7 +73,7 @@ class WhatsNew extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/products/coca-cola-energy/explore/"
+									href="/cocacola/products/coca-cola-energy/explore/"
 								>
 									EXPLORE
 								</Button>
@@ -89,7 +89,7 @@ class WhatsNew extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/products/coca-cola-energy/explore/"
+									href="/cocacola/products/coca-cola-energy/explore/"
 								>
 									EXPLORE
 								</Button>
@@ -104,7 +104,7 @@ class WhatsNew extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/products/coca-cola-energy/explore/"
+									href="/cocacola/cocacola/products/coca-cola-energy/explore/"
 								>
 									EXPLORE
 								</Button>

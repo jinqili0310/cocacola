@@ -2,7 +2,7 @@
  * @Author: Jinqi Li
  * @Date: 2020-08-26 16:08:32
  * @LastEditors: Jinqi Li
- * @LastEditTime: 2020-09-20 07:30:12
+ * @LastEditTime: 2020-09-20 08:06:07
  * @FilePath: /cocacola-clone/src/App.js
  */
 import React, { Component } from 'react';
@@ -26,17 +26,17 @@ class App extends Component {
 			<div className="navRoute">
 				<BrowserRouter>
 					<Switch>
-						<Route path="/products/coca-cola/" exact component={Home} />
-						<Route path="/products/coca-cola-zero-sugar/" exact component={ZeroSugar} />
-						<Route path="/products/coca-cola-energy/" exact component={Energy} />
-						<Route path="/products/coca-cola-flavors/" exact component={Flavor} />
-						<Route path="/products/coca-cola-local-flavors/" component={LocalTaste} />
-						<Route path="/about-us/coca-cola-history/" component={History} />
-						<Route path="/products/coca-cola/explore/" component={ExploreOriginal} />
-						<Route path="/products/coca-cola-zero-sugar/explore/" component={ExploreZeroSugar} />
-						<Route path="/products/coca-cola-energy/explore/" component={ExploreEnergy} />
-						<Route path="/products/coca-cola-flavors/explore/" component={ExploreFlavor} />
-						<Redirect to="/products/coca-cola/" />
+						<Route path="/cocacola/products/coca-cola/" exact component={Home} />
+						<Route path="/cocacola/products/coca-cola-zero-sugar/" exact component={ZeroSugar} />
+						<Route path="/cocacola/products/coca-cola-energy/" exact component={Energy} />
+						<Route path="/cocacola/products/coca-cola-flavors/" exact component={Flavor} />
+						<Route path="/cocacola/products/coca-cola-local-flavors/" component={LocalTaste} />
+						<Route path="/cocacola/about-us/coca-cola-history/" component={History} />
+						<Route path="/cocacola/products/coca-cola/explore/" component={ExploreOriginal} />
+						<Route path="/cocacola/products/coca-cola-zero-sugar/explore/" component={ExploreZeroSugar} />
+						<Route path="/cocacola/products/coca-cola-energy/explore/" component={ExploreEnergy} />
+						<Route path="/cocacola/products/coca-cola-flavors/explore/" component={ExploreFlavor} />
+						<Redirect to="/cocacola/products/coca-cola/" />
 					</Switch>
 				</BrowserRouter>
 			</div>
