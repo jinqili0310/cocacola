@@ -2,7 +2,7 @@
  * @Author: Jinqi Li
  * @Date: 2020-08-26 16:08:32
  * @LastEditors: Jinqi Li
- * @LastEditTime: 2020-09-20 08:06:07
+ * @LastEditTime: 2020-09-25 01:20:53
  * @FilePath: /cocacola-clone/src/App.js
  */
 import React, { Component } from 'react';

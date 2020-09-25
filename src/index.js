@@ -2,7 +2,7 @@
  * @Author: Jinqi Li
  * @Date: 2020-06-21 22:29:22
  * @LastEditors: Jinqi Li
- * @LastEditTime: 2020-09-20 05:44:18
+ * @LastEditTime: 2020-09-25 00:26:01
  * @FilePath: /cocacola-clone/src/index.js
  */
 import React from 'react';
@@ -10,11 +10,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <BrowserRouter>
     <App />
-  </React.StrictMode>,
+  </BrowserRouter>,
   document.getElementById('root')
 );
 

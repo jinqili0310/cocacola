@@ -2,7 +2,7 @@
  * @Author: Jinqi Li
  * @Date: 2020-08-26 16:08:32
  * @LastEditors: Jinqi Li
- * @LastEditTime: 2020-09-20 08:13:28
+ * @LastEditTime: 2020-09-25 01:10:21
  * @FilePath: /cocacola-clone/src/components/navigation.js
  */
 import React, { Component } from 'react';
@@ -20,7 +20,7 @@ class Navigation extends Component {
 		return (
 			<Navbar collapseOnSelect className="navbar" expand="lg" fixed="top">
 				<Navbar.Brand className="nav-logo">
-					<a href="/cocacola/">
+					<a href="/cocacola/products/coca-cola">
 						<img
 							src={ccLogo}
 							width="90.16"
