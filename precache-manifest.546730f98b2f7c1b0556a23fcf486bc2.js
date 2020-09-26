@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5fa6433967f79b7da282e9465c682a7d",
+    "revision": "36838485dd1ea03a8316e567208dc10c",
     "url": "/cocacola/index.html"
   },
   {
-    "revision": "7c8e7a8b9644ddb75ff2",
+    "revision": "a7c92ef92adfc5abd8eb",
     "url": "/cocacola/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "0a6fc1fe42cfa9393163",
+    "revision": "7b763eb22dd0cc2b0c54",
     "url": "/cocacola/static/css/main.6b3a02f2.chunk.css"
   },
   {
-    "revision": "7c8e7a8b9644ddb75ff2",
-    "url": "/cocacola/static/js/2.bc8b4d23.chunk.js"
+    "revision": "a7c92ef92adfc5abd8eb",
+    "url": "/cocacola/static/js/2.c5f30612.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/cocacola/static/js/2.bc8b4d23.chunk.js.LICENSE.txt"
+    "url": "/cocacola/static/js/2.c5f30612.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a6fc1fe42cfa9393163",
-    "url": "/cocacola/static/js/main.086069bb.chunk.js"
+    "revision": "7b763eb22dd0cc2b0c54",
+    "url": "/cocacola/static/js/main.20301f7f.chunk.js"
   },
   {
     "revision": "3c9accf3c3cbf2c3ef50",
