@@ -51,7 +51,7 @@ class Energy extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/cocacola/products/coca-cola-energy/explore/"
+									href="/cocacola/#/products/coca-cola-energy/explore/"
 								>
 									EXPLORE
 								</Button>
@@ -66,7 +66,7 @@ class Energy extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/cocacola/products/coca-cola-energy/explore/"
+									href="/cocacola/#/products/coca-cola-energy/explore/"
 								>
 									EXPLORE
 								</Button>
@@ -81,7 +81,7 @@ class Energy extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/cocacola/products/coca-cola-energy/explore/"
+									href="/cocacola/#/products/coca-cola-energy/explore/"
 								>
 									EXPLORE
 								</Button>
@@ -96,7 +96,7 @@ class Energy extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/cocacola/products/coca-cola-energy/explore/"
+									href="/cocacola/#/products/coca-cola-energy/explore/"
 								>
 									EXPLORE
 								</Button>

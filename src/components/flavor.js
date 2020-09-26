@@ -56,7 +56,7 @@ class Flavor extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/cocacola/products/coca-cola-flavors/explore/"
+									href="/products/coca-cola-flavors/explore/"
 								>
 									EXPLORE
 								</Button>
@@ -71,7 +71,7 @@ class Flavor extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/cocacola/products/coca-cola-flavors/explore/"
+									href="/cocacola/#/products/coca-cola-flavors/explore/"
 								>
 									EXPLORE
 								</Button>
@@ -86,7 +86,7 @@ class Flavor extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/cocacola/products/coca-cola-flavors/explore/"
+									href="/cocacola/#/products/coca-cola-flavors/explore/"
 								>
 									EXPLORE
 								</Button>
@@ -101,7 +101,7 @@ class Flavor extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/cocacola/products/coca-cola-flavors/explore/"
+									href="/cocacola/#/products/coca-cola-flavors/explore/"
 								>
 									EXPLORE
 								</Button>
@@ -116,7 +116,7 @@ class Flavor extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/cocacola/products/coca-cola-flavors/explore/"
+									href="/cocacola/#/products/coca-cola-flavors/explore/"
 								>
 									EXPLORE
 								</Button>
@@ -131,7 +131,7 @@ class Flavor extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/cocacola/products/coca-cola-flavors/explore/"
+									href="/cocacola/#/products/coca-cola-flavors/explore/"
 								>
 									EXPLORE
 								</Button>
@@ -146,7 +146,7 @@ class Flavor extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/cocacola/products/coca-cola-flavors/explore/"
+									href="/cocacola/#/products/coca-cola-flavors/explore/"
 								>
 									EXPLORE
 								</Button>
@@ -161,7 +161,7 @@ class Flavor extends Component {
 								<Button
 									variant="dark"
 									className="button-style"
-									href="/cocacola/products/coca-cola-flavors/explore/"
+									href="/cocacola/#/products/coca-cola-flavors/explore/"
 								>
 									EXPLORE
 								</Button>

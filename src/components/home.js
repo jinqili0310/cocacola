@@ -2,8 +2,8 @@
  * @Author: Jinqi Li
  * @Date: 2020-08-26 16:08:32
  * @LastEditors: Jinqi Li
- * @LastEditTime: 2020-09-20 08:12:46
- * @FilePath: /cocacola-clone/src/components/home.js
+ * @LastEditTime: 2020-09-25 21:11:28
+ * @FilePath: /cocacola/src/components/home.js
  */
 import React, { Component } from 'react';
 import '../App.css';
@@ -60,7 +60,7 @@ class Home extends Component {
 							<Card.Img variant="top" src={productCC} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Coca-Cola</Card.Text>
-								<Button variant="dark" className="button-style" href="/cocacola/products/coca-cola/explore/">
+								<Button variant="dark" className="button-style" href="/cocacola/#/products/coca-cola/explore/">
 									EXPLORE
 								</Button>
 							</Card.Body>
@@ -71,7 +71,7 @@ class Home extends Component {
 							<Card.Img variant="top" src={productDecaf} className="card-zero" />
 							<Card.Body className="product-card-body">
 								<Card.Text>Caffeine Free Coca-Cola</Card.Text>
-								<Button variant="dark" className="button-style" href="/cocacola/products/coca-cola/explore/">
+								<Button variant="dark" className="button-style" href="/cocacola/#/products/coca-cola/explore/">
 									EXPLORE
 								</Button>
 							</Card.Body>

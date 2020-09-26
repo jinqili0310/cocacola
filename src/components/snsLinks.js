@@ -2,8 +2,8 @@
  * @Author: Jinqi Li
  * @Date: 2020-06-21 22:29:22
  * @LastEditors: Jinqi Li
- * @LastEditTime: 2020-09-20 08:13:51
- * @FilePath: /cocacola-clone/src/components/snsLinks.js
+ * @LastEditTime: 2020-09-25 21:12:13
+ * @FilePath: /cocacola/src/components/snsLinks.js
  */
 import React, { Component } from 'react';
 import { Row } from 'react-bootstrap';
@@ -31,24 +31,24 @@ class SnsLinks extends Component {
 				</div> */}
 				<p>
 					© 2020{' '}
-					<a href="/cocacola/" className="shop-link">
+					<a href="/" className="shop-link">
 						THE COCA-COLA COMPANY
 					</a>. ALL RIGHTS RESERVED
 				</p>
                 <div className="contact-group">
-                    <a href="/cocacola/" className="contact-link">CONTACT US</a>
+                    <a href="/" className="contact-link">CONTACT US</a>
                     <p> | </p>
-                    <a href="/cocacola/" className="contact-link">FAQs</a>
+                    <a href="/" className="contact-link">FAQs</a>
                     <p> | </p>
-                    <a href="/cocacola/" className="contact-link">TERMS</a>
+                    <a href="/" className="contact-link">TERMS</a>
                     <p> | </p>
-                    <a href="/cocacola/" className="contact-link">RULES</a>
+                    <a href="/" className="contact-link">RULES</a>
                     <p> | </p>
-                    <a href="/cocacola/" className="contact-link">PRIVACY</a>
+                    <a href="/" className="contact-link">PRIVACY</a>
                     <p> | </p>
-                    <a href="/cocacola/" className="contact-link">DO NOT SELL MY PERSONAL INFORMATION</a>
+                    <a href="/" className="contact-link">DO NOT SELL MY PERSONAL INFORMATION</a>
                     <p> | </p>
-                    <a href="/cocacola/" className="contact-link">SITEMAP</a>
+                    <a href="/" className="contact-link">SITEMAP</a>
                 </div>
 			</Row>
 		);

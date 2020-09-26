@@ -2,8 +2,8 @@
  * @Author: Jinqi Li
  * @Date: 2020-08-26 16:08:32
  * @LastEditors: Jinqi Li
- * @LastEditTime: 2020-09-25 01:10:21
- * @FilePath: /cocacola-clone/src/components/navigation.js
+ * @LastEditTime: 2020-09-25 21:11:49
+ * @FilePath: /cocacola/src/components/navigation.js
  */
 import React, { Component } from 'react';
 import { Navbar, Nav, NavDropdown } from 'react-bootstrap';
@@ -20,7 +20,7 @@ class Navigation extends Component {
 		return (
 			<Navbar collapseOnSelect className="navbar" expand="lg" fixed="top">
 				<Navbar.Brand className="nav-logo">
-					<a href="/cocacola/products/coca-cola">
+					<a href="/cocacola/#/products/coca-cola">
 						<img
 							src={ccLogo}
 							width="90.16"
@@ -36,24 +36,24 @@ class Navigation extends Component {
 						<Nav className="mr-auto">
 							<NavDropdown title="OUR BRANDS" id="basic-nav-dropdown">
 								<BrowserRouter>
-								<NavDropdown.Item href="/cocacola/products/coca-cola/">
+								<NavDropdown.Item href="/cocacola/#/products/coca-cola/">
 									<img className="nav-cokes" src={navCoke} alt="nav-coke" />
 								</NavDropdown.Item>
-								<NavDropdown.Item href="/cocacola/products/coca-cola-zero-sugar/">
+								<NavDropdown.Item href="/cocacola/#/products/coca-cola-zero-sugar/">
 									<img className="nav-cokes" src={navZero} alt="nav-coke" />
 								</NavDropdown.Item>
-								<NavDropdown.Item href="/cocacola/products/coca-cola-energy/">
+								<NavDropdown.Item href="/cocacola/#/products/coca-cola-energy/">
 									<img className="nav-cokes" src={navEnergy} alt="nav-coke" />
 								</NavDropdown.Item>
-								<NavDropdown.Item href="/cocacola/products/coca-cola-flavors/">
+								<NavDropdown.Item href="/cocacola/#/products/coca-cola-flavors/">
 									<img className="nav-cokes" src={navFlavor} alt="nav-coke" />
 								</NavDropdown.Item>
-								<NavDropdown.Item href="/cocacola/products/coca-cola-local-flavors/">
+								<NavDropdown.Item href="/cocacola/#/products/coca-cola-local-flavors/">
 									<img className="nav-cokes" src={navLocal} alt="nav-coke" />
 								</NavDropdown.Item>
 								</BrowserRouter>
 							</NavDropdown>
-							<Nav.Link href="/cocacola/about-us/coca-cola-history/">HISTORY</Nav.Link>
+							<Nav.Link href="/cocacola/#/about-us/coca-cola-history/">HISTORY</Nav.Link>
 						</Nav>
 					</Navbar.Collapse>
 				</div>
