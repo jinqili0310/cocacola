@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cocacola/static/css/main.6b3a02f2.chunk.css",
-    "main.js": "/cocacola/static/js/main.20301f7f.chunk.js",
-    "main.js.map": "/cocacola/static/js/main.20301f7f.chunk.js.map",
+    "main.js": "/cocacola/static/js/main.68832236.chunk.js",
+    "main.js.map": "/cocacola/static/js/main.68832236.chunk.js.map",
     "runtime-main.js": "/cocacola/static/js/runtime-main.0361159b.js",
     "runtime-main.js.map": "/cocacola/static/js/runtime-main.0361159b.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/cocacola/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.c5f30612.chunk.js": "/cocacola/static/js/2.c5f30612.chunk.js",
     "static/js/2.c5f30612.chunk.js.map": "/cocacola/static/js/2.c5f30612.chunk.js.map",
     "index.html": "/cocacola/index.html",
-    "precache-manifest.546730f98b2f7c1b0556a23fcf486bc2.js": "/cocacola/precache-manifest.546730f98b2f7c1b0556a23fcf486bc2.js",
+    "precache-manifest.7a4f0f6996edb84e45bc3b465b7636b0.js": "/cocacola/precache-manifest.7a4f0f6996edb84e45bc3b465b7636b0.js",
     "service-worker.js": "/cocacola/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/cocacola/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.6b3a02f2.chunk.css.map": "/cocacola/static/css/main.6b3a02f2.chunk.css.map",
@@ -61,6 +61,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.c5f30612.chunk.js",
     "static/css/main.6b3a02f2.chunk.css",
-    "static/js/main.20301f7f.chunk.js"
+    "static/js/main.68832236.chunk.js"
   ]
 }
