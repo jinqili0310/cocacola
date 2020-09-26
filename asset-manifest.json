@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/cocacola/static/css/main.6b3a02f2.chunk.css",
-    "main.js": "/cocacola/static/js/main.b0a68719.chunk.js",
-    "main.js.map": "/cocacola/static/js/main.b0a68719.chunk.js.map",
+    "main.js": "/cocacola/static/js/main.47b1c505.chunk.js",
+    "main.js.map": "/cocacola/static/js/main.47b1c505.chunk.js.map",
     "runtime-main.js": "/cocacola/static/js/runtime-main.0361159b.js",
     "runtime-main.js.map": "/cocacola/static/js/runtime-main.0361159b.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/cocacola/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.c5f30612.chunk.js": "/cocacola/static/js/2.c5f30612.chunk.js",
-    "static/js/2.c5f30612.chunk.js.map": "/cocacola/static/js/2.c5f30612.chunk.js.map",
+    "static/js/2.bc8b4d23.chunk.js": "/cocacola/static/js/2.bc8b4d23.chunk.js",
+    "static/js/2.bc8b4d23.chunk.js.map": "/cocacola/static/js/2.bc8b4d23.chunk.js.map",
     "index.html": "/cocacola/index.html",
-    "precache-manifest.d1289b90299476afbb7fd12469992be9.js": "/cocacola/precache-manifest.d1289b90299476afbb7fd12469992be9.js",
+    "precache-manifest.d72f5f7caa4102d545bfab90c3fb640b.js": "/cocacola/precache-manifest.d72f5f7caa4102d545bfab90c3fb640b.js",
     "service-worker.js": "/cocacola/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/cocacola/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.6b3a02f2.chunk.css.map": "/cocacola/static/css/main.6b3a02f2.chunk.css.map",
-    "static/js/2.c5f30612.chunk.js.LICENSE.txt": "/cocacola/static/js/2.c5f30612.chunk.js.LICENSE.txt",
+    "static/js/2.bc8b4d23.chunk.js.LICENSE.txt": "/cocacola/static/js/2.bc8b4d23.chunk.js.LICENSE.txt",
     "static/media/Cherry-Vanilla-Nav-Image.jpeg": "/cocacola/static/media/Cherry-Vanilla-Nav-Image.90f6ba1b.jpeg",
     "static/media/Coca-Cola-PCP-Energy_Hero_Desktop.jpeg": "/cocacola/static/media/Coca-Cola-PCP-Energy_Hero_Desktop.b3f64e4e.jpeg",
     "static/media/Coca-Cola_Flavors-Hero_Desktop.jpeg": "/cocacola/static/media/Coca-Cola_Flavors-Hero_Desktop.ce4539f7.jpeg",
@@ -59,8 +59,8 @@
   "entrypoints": [
     "static/js/runtime-main.0361159b.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.c5f30612.chunk.js",
+    "static/js/2.bc8b4d23.chunk.js",
     "static/css/main.6b3a02f2.chunk.css",
-    "static/js/main.b0a68719.chunk.js"
+    "static/js/main.47b1c505.chunk.js"
   ]
 }
