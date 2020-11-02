@@ -1,4 +1,4 @@
-var icon_img = 'https://kikijinqili.github.io/assets/cocacola/img/julia_icon_tmp.jpg';
+var icon_img = 'https://kikijinqili.github.io/assets/cocacola/img/avatar.png';
 var waitForBot = setInterval(typingAnim, 4000);
 var playAd = 0;
 var bye = 0;
