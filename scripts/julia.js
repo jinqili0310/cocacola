@@ -200,7 +200,7 @@ function typingAnim()
 	var newNode = document.createElement("div");
     newNode.setAttribute("class", "chat_message_bot");
     var newImg = document.createElement("img");
-    newImg.src = 'https://kikijinqili.github.io/assets/cocacola/img/julia_icon_tmp.jpg';
+    newImg.src = 'https://kikijinqili.github.io/assets/cocacola/img/avatar.png';
     newImg.setAttribute("width", "8%");
     newNode.appendChild(newImg);
     newNode.appendChild(document.createTextNode(" ..."));
