@@ -26,7 +26,7 @@ function createQuestions() {
 	prescripted_questions[1] = new Question(['Aww 🥰 Doing great. What can I help you with today?'], 'When was Coca-Cola founded?', 2)
 	prescripted_questions[2] = new Question(["Our company was founded in 1892. Let me count... Hmm... That's 128 years ago 🤩"], 'Where is the company located?', 3)
 	prescripted_questions[3] = new Question(["Our company is headquartered in Atlanta, Georgia 🇺🇸 But I believe we now operate worldwide 🌎"], "How many countries carry your products?", 4);
-	prescripted_questions[4] = new Question(["You can find us in more than 200 countries as of 2018 😱"], "Other than regular coke, what do you sell?", 5);
+	prescripted_questions[4] = new Question(["You can find us in more than 200 countries 🥳"], "Other than regular coke, what do you sell?", 5);
 	prescripted_questions[5] = new Question([ " I can't understand your question. I am still learning and our programmers are working hard to improve my artificial intelligence technology. Can you type your question again, but in a simpler form? 🥺", "https://kikijinqili.github.io/assets/cocacola/img/200.gif"], "What products do you have?", 6);
 	prescripted_questions[6] = new Question(["Coke and Sprite are our star products🥤But we also own many other products including Fanta, Minute Maid, and Costa Coffee 🥳"],"How many different products do you sell?", 7);
 	prescripted_questions[7] = new Question(["Well... It's definitely more than what you expected 😂 We sell 4300+ different products."], "Which product would you recommend if I am feeling sad?", 8);
