@@ -1,4 +1,4 @@
-var icon_img = 'https://kikijinqili.github.io/assets/cocacola/img/avatar.png';
+var icon_img = 'https://jinqili0310.github.io/assets/cocacola/img/avatar.png';
 var waitForBot = setInterval(typingAnim, 4000);
 var playAd = 0;
 var bye = 0;
@@ -27,11 +27,11 @@ function createQuestions() {
 	prescripted_questions[2] = new Question(["Our company was founded in 1892. Let me count... Hmm... That's 128 years ago 🤩"], 'Where is the company located?', 3)
 	prescripted_questions[3] = new Question(["Our company is headquartered in Atlanta, Georgia 🇺🇸 But I believe we now operate worldwide 🌎"], "How many countries carry your products?", 4);
 	prescripted_questions[4] = new Question(["You can find us in more than 200 countries as of 2018 😱"], "Other than regular coke, what do you sell?", 5);
-	prescripted_questions[5] = new Question([ " I can't understand your question. I am still learning and our programmers are working hard to improve my artificial intelligence technology. Can you type your question again, but in a simpler form? 🥺", "https://kikijinqili.github.io/assets/cocacola/img/200.gif"], "What products do you have?", 6);
+	prescripted_questions[5] = new Question([ " I can't understand your question. I am still learning and our programmers are working hard to improve my artificial intelligence technology. Can you type your question again, but in a simpler form? 🥺", "https://jinqili0310.github.io/assets/cocacola/img/200.gif"], "What products do you have?", 6);
 	prescripted_questions[6] = new Question(["Coke and Sprite are our star products🥤But we also own many other products including Fanta, Minute Maid, and Costa Coffee 🥳"],"How many different products do you sell?", 7);
 	prescripted_questions[7] = new Question(["Well... It's definitely more than what you expected 😂 We sell 4300+ different products."], "Which product would you recommend if I am feeling sad?", 8);
-	prescripted_questions[8] = new Question(["Sorry to hear that you are feeling blue. I hope something wonderful would happen to you soon! Remember, bad things will pass ❤️ For a sad day, I recommend our Minute Maid orange juice 🍊. It's bright yellow like sunshine 🌞 and full of vitamin C to perk up your day!", "https://kikijinqili.github.io/assets/cocacola/img/201.gif"], "Any drinks that provide mental and physical stimulation?", 9);
-	prescripted_questions[9] = new Question([" I can't understand your question. I am still learning and our programmers are working hard to improve my artificial intelligence technology. Can you type your question again, but in a simpler form? 🥺", "https://kikijinqili.github.io/assets/cocacola/img/200.gif"], "Can you recommend an energy drink?", 10);
+	prescripted_questions[8] = new Question(["Sorry to hear that you are feeling blue. I hope something wonderful would happen to you soon! Remember, bad things will pass ❤️ For a sad day, I recommend our Minute Maid orange juice 🍊. It's bright yellow like sunshine 🌞 and full of vitamin C to perk up your day!", "https://jinqili0310.github.io/assets/cocacola/img/201.gif"], "Any drinks that provide mental and physical stimulation?", 9);
+	prescripted_questions[9] = new Question([" I can't understand your question. I am still learning and our programmers are working hard to improve my artificial intelligence technology. Can you type your question again, but in a simpler form? 🥺", "https://jinqili0310.github.io/assets/cocacola/img/200.gif"], "Can you recommend an energy drink?", 10);
 	prescripted_questions[10] = new Question(["We recently launched Coca-Cola Energy 💪🏽 featuring both regular and zero-sugar version. Try it next time you go grocery shopping 🛒"], "Tell me a fun fact about the company.", 11);
 	prescripted_questions[11] = new Question(["We used to own the movie studio Columbia Pictures 🤯 which produced many popular films including Ghostbuster 👻!!!"], "That is cool!", 12);
 	prescripted_questions[12] = new Question(["I know! Right? Coca-Cola is full of surprises 😜"], "Thank you for your help!", -1);
@@ -140,7 +140,7 @@ function postBotAnswer(text)
     	document.getElementById("chat_box").insertBefore(newNode, spaceHolderNode);
     	document.getElementById("chat_box").scrollTop = document.getElementById("chat_box").scrollHeight;
 
-    	var audio = new Audio('https://kikijinqili.github.io/assets/cocacola/audio/Pling-KevanGC-1485374730.mp3');
+    	var audio = new Audio('https://jinqili0310.github.io/assets/cocacola/audio/Pling-KevanGC-1485374730.mp3');
 		audio.play();
 	}
 	
@@ -209,7 +209,7 @@ function typingAnim()
 	var newNode = document.createElement("div");
     newNode.setAttribute("class", "chat_message_bot");
     var newImg = document.createElement("img");
-    newImg.src = 'https://kikijinqili.github.io/assets/cocacola/img/avatar.png';
+    newImg.src = 'https://jinqili0310.github.io/assets/cocacola/img/avatar.png';
     newImg.setAttribute("width", "8%");
     newNode.appendChild(newImg);
     newNode.appendChild(document.createTextNode(" Julia is typing ..."));
